@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer</h3>
 
 <div align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=4151824650936552" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img alt="Coding" width="600" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 </div>
 
 ---
