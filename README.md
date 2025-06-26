@@ -2,7 +2,8 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer</h3>
 
 <div align="center">
-  <img alt="Coding" width="600" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+  <img alt="Coding" width="600" src="![Tired Now](https://github.com/user-attachments/assets/fb475034-55d8-40b7-8f12-2415f40c5b35)
+">
 </div>
 
 ---
